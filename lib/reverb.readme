@@ -1,0 +1,10 @@
+modified ReVerb (https://github.com/knowitall/reverb) to
+support Whitespace Tokenizer, by setting the following
+public static variable:
+
+import edu.washington.cs.knowitall.util.DefaultObjects;
+            DefaultObjects.useWhitespaceTokenizer = true;
+            
+the cmd line utility also supports this with the '-w' option:
+
+ echo "Bananas are an excellent source of potassium." | java -jar reverb-core-1.4.3-SNAPSHOT-jar-with-dependencies.jar -q -w | tr '\t' '\n' | cat -n

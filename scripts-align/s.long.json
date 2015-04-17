@@ -1,0 +1,11 @@
+[
+	{
+	"name": "1",
+	"id": "",
+	"source": "John loves Mary . They got married one year ago .",
+	"target": "Mary likes John too . They married last year .",
+	"score": "10.480517994273793",
+	"sureAlign": "0-2 1-1 2-0 3-4 4-5 6-6 7-7 8-8 9-8 10-9",
+	"possibleAlign": ""
+	}
+]

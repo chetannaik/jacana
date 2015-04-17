@@ -1,0 +1,17 @@
+2014-2-10
+
+OpenNLP tools 1.3 and maxend 2.4 are not compatabile with newer versions.
+
+To include both, I had to rename the old: 
+from opennlp.tools.** to opennlp.tools13.**,
+from opennlp.maxent.** to opennlp.maxent24.**, 
+
+using:
+
+java -jar ~/Downloads/jarjar-1.4.jar process rule.txt opennlp-tools-1.3.jar opennlp-tools-1.3.rename.jar
+java -jar ~/Downloads/jarjar-1.4.jar process rule.txt opennlp-maxent-2.4.jar opennlp-maxent-2.4.rename.jar
+
+with the "rule.txt" file:
+
+rule opennlp.tools.** opennlp13.tools.@1
+rule opennlp.maxent.** opennlp.maxent24.@1

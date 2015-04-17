@@ -1,0 +1,2 @@
+edited extjwnl_resource_properties.xml to enable/increase caching:
+    <param name="cache_size" value="5000"/>

@@ -1,0 +1,8 @@
+Snow's Augmented WordNet:
+
+http://ai.stanford.edu/~rion/swn/augmented.html
+
+WN 2.1 + 400,000 synsets (cropped for ./wn compatibility) : wn400k_cropped.tgz
+http://ai.stanford.edu/~rion/swn/wn400k_cropped.tgz
+
+the *.exc files are taken from ../wordnet

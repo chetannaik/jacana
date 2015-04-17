@@ -1,0 +1,2137 @@
+[
+    {
+        "SYNONYM": "Erin || Ron || Ronnie",
+        "word": "Aaron",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ab || Abe || Eb || Ebbie",
+        "word": "Abel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "A.B. || Ab || Biah",
+        "word": "Abiah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "A.B. || Ab || Biah",
+        "word": "Abijah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Biel || Ab",
+        "word": "Abiel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Abe",
+        "word": "Abraham",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Abe",
+        "word": "Abram",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ab",
+        "word": "Abner",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ad || Ade",
+        "word": "Adam",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ad || Ade || Albert || Bert || Del || Delbert || Elbert",
+        "word": "Adelbert",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ad || Dolph || Olph",
+        "word": "Adolph",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ad || Dolph || Olph",
+        "word": "Adolphus",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Al",
+        "word": "Alan",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Alan || Al || Lonson",
+        "word": "Alanson",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Al || Bert || Elbert || Adelbert",
+        "word": "Albert",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Al || Rich || Richie",
+        "word": "Aldrich",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Al || Alex || Eleck || Sandy",
+        "word": "Alexander",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Al || Fred",
+        "word": "Alfred",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Al || Lon || Lonzo",
+        "word": "Alonzo",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ander || Andy || Sonny",
+        "word": "Anderson",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Andy || Drew",
+        "word": "Andrew",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Tony",
+        "word": "Anthony",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Archie || Baldo",
+        "word": "Archibald",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Art",
+        "word": "Arthur",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Asa",
+        "word": "Asaph",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Asa",
+        "word": "Asahel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Aze || Riah",
+        "word": "Azariah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "August || Austin || Gus",
+        "word": "Augustus",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "August || Austin || Gus",
+        "word": "Augustine",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Benjamin Franklin",
+        "word": "B.F.",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Barney",
+        "word": "Barnabas",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Bart || Bartel || Bat || Mees || Meus",
+        "word": "Bartholomew",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ben || Bennie",
+        "word": "Benedict",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ben || Bennie || Benjy || Jamie",
+        "word": "Benjamin",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Barney || Berney",
+        "word": "Bernard",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Brad || Ford",
+        "word": "Bradford",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ricky || Brady || Brody",
+        "word": "Broderick",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cal || Vin || Vinny",
+        "word": "Calvin",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cam || Ronny || Ron",
+        "word": "Cameron",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Charles",
+        "word": "Carl",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "K.C.",
+        "word": "Casey",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "K.C.",
+        "word": "Kasey",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ced || Rick || Ricky",
+        "word": "Cedric",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Carl || Charlie || Chick || Chuck",
+        "word": "Charles",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Chan",
+        "word": "Chauncey",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Chet",
+        "word": "Chester",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Chris || Kit",
+        "word": "Christopher",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Chris || Kit",
+        "word": "Christian",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Clair || Clare",
+        "word": "Clarence",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Clem",
+        "word": "Clement",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cliff || Ford",
+        "word": "Clifford",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cliff || Tony",
+        "word": "Clifton",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Clum",
+        "word": "Columbus",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Con || Conny",
+        "word": "Conrad",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Con || Conny || Corny || Niel",
+        "word": "Cornelius",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Court || Curt",
+        "word": "Courtney",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cene || Cy || Renius || Serene || Swene",
+        "word": "Cyrenius",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Curt",
+        "word": "Curtis",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dahl || Dal",
+        "word": "Dalton",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dan || Danny",
+        "word": "Daniel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dave || Davey || Day",
+        "word": "David",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Bert || Del",
+        "word": "Delbert",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Denny || Dennison",
+        "word": "Dennis",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eric || Rick || Ricky",
+        "word": "Derrick",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Don || Donny",
+        "word": "Donald",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eben || Eb || Ebbie",
+        "word": "Ebenezer",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ed || Ned || Ted",
+        "word": "Edmund",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ed || Ned || Ted || Teddy",
+        "word": "Edward",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ed || Ned || Win",
+        "word": "Edwin",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Adelbert || Albert",
+        "word": "Elbert",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lazar",
+        "word": "Eleazer",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eli || Lee || Lias",
+        "word": "Elias",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eli || Lige",
+        "word": "Elijah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Left",
+        "word": "Eliphalet",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eli || Lish",
+        "word": "Elisha",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Elsey || Elze || Elsie",
+        "word": "Ellswood",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Elsey || Elze || Elsie",
+        "word": "Elswood",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Woody",
+        "word": "Elwood",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Manny || Manuel",
+        "word": "Emanuel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eph",
+        "word": "Ephraim",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dite || Ditus || Dyce || Dyche || Eppa",
+        "word": "Epaphroditius",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Rick || Ricky || Derrick",
+        "word": "Eric",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ernie",
+        "word": "Ernest",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Gene",
+        "word": "Eugene",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ez || Zeke",
+        "word": "Ezekiel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ez",
+        "word": "Ezra",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ferdie",
+        "word": "Ferdinand",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Frank || Fran",
+        "word": "Francis",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Frank || Fran",
+        "word": "Franklin",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Fred || Freddy || Fritz",
+        "word": "Frederick",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "often George Washington",
+        "word": "G.W.",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Gabe || Gabby",
+        "word": "Gabriel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Geoff || Jeff",
+        "word": "Geoffrey",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Geoff || Jeff",
+        "word": "Jeffrey",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jerry || Gerry",
+        "word": "Gerald",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Gil || Bert || Wilber",
+        "word": "Gilbert",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hal || Harry",
+        "word": "Harold",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hal || Hank || Harry",
+        "word": "Henry",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Herb || Bert",
+        "word": "Herbert",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hez || Hy || Kiah",
+        "word": "Hezekiah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hy",
+        "word": "Hiram",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hop || Hopp",
+        "word": "Hopkins",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Horry",
+        "word": "Horace",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hugh || Bert || Hub",
+        "word": "Hubert",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Iggy || Nace || Nate || Natius",
+        "word": "Ignatius",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ike || Zeke",
+        "word": "Isaac",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Izzy",
+        "word": "Isidore",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jaap || Jake || Jay || Jacobus.",
+        "word": "Jacob",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jamie || Jem || Jim || Jimmy",
+        "word": "James",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jacob",
+        "word": "Jay",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jed",
+        "word": "Jedidiah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jeff || Sonny",
+        "word": "Jefferson",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hiel",
+        "word": "Jehiel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jereme || Jerry",
+        "word": "Jeremiah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jack || Jock || Johnny || Jonathan",
+        "word": "John",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Nathan || John || Jon",
+        "word": "Jonathan",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Joe || Joey || Jos || Jody",
+        "word": "Joseph",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Josh || Jos",
+        "word": "Joshua",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jos",
+        "word": "Josiah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jud || Sonny",
+        "word": "Judson",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jule",
+        "word": "Julias",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jule",
+        "word": "Julian",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "JR || June || Junie",
+        "word": "Junior",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Kasey || Casey",
+        "word": "K.C.",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ken || Kenny || Kendall || Kendrick || Kent",
+        "word": "Kenneth",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Kingston || Kingsley",
+        "word": "King",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Fate || Laffie",
+        "word": "Lafayette",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Monty",
+        "word": "Lamont",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Larry || Lon || Lonny || Lorne || Lorry",
+        "word": "Lawrence",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Larry || Lon || Lonny || Lorne || Lorry",
+        "word": "Laurence",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lem",
+        "word": "Lemuel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Leo || Leon || Len || Lenny || Lineau",
+        "word": "Leonard",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "L.R. || Lee || Roy",
+        "word": "LeRoy",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Les",
+        "word": "Leslie",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Les",
+        "word": "Lester",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lee",
+        "word": "Levi",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Link",
+        "word": "Lincoln",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Loren",
+        "word": "Lorenzo",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Luke",
+        "word": "Lucias",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Luke",
+        "word": "Lucas",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Luke",
+        "word": "Luther",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lynn || Lindy",
+        "word": "Lyndon",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Mark",
+        "word": "Marcus",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Marty",
+        "word": "Martin",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Marv",
+        "word": "Marvin",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Matt || Thias || Thys",
+        "word": "Matthew",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Matt || Thias || Thys",
+        "word": "Matthias",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Morey",
+        "word": "Maurice",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Morey",
+        "word": "Morris",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Merv",
+        "word": "Mervyn",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Michael",
+        "word": "Micah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Mike || Micah || Mick || Micky",
+        "word": "Michael",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Mitch",
+        "word": "Mitchell",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Monty || Gum",
+        "word": "Montgomery",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Nap || Nappy || Leon",
+        "word": "Napoleon",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Nate || Nathaniel || Jonathan",
+        "word": "Nathan",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Nathan || Nate || Nat || Natty || Than",
+        "word": "Nathaniel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Nick || Claas || Claes",
+        "word": "Nicholas",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Bert || Norby",
+        "word": "Norbert",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Diah || Dyer || Obed || Obie",
+        "word": "Obadiah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ollie",
+        "word": "Oliver",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ossy || Ozzy || Waldo",
+        "word": "Oswald",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Paddy || Pat || Patsy || Pate || Peter",
+        "word": "Patrick",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Perry",
+        "word": "Pelegrine",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Percy",
+        "word": "Percival",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Pete || Pate",
+        "word": "Peter",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Leet || Phil",
+        "word": "Philetus",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Phil",
+        "word": "Phillip",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Scott || Scotty || Pres",
+        "word": "Prescott",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Raphael",
+        "word": "Ralph",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Randy || Dolph",
+        "word": "Randolph",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ray",
+        "word": "Raymond",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Reg || Reggie || Naldo || Renny",
+        "word": "Reginald",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Rube",
+        "word": "Reuben",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dick || Dickon || Rich || Rick || Ricky",
+        "word": "Richard",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Bob || Dob || Dobbin || Hob || Hobkin || Rob || Robby || Bobby || Robin || Rupert",
+        "word": "Robert",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Roge || Hodge || Rod",
+        "word": "Roger",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Roge || Hodge || Rod",
+        "word": "Rodger",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lanny || Rollo || Rolly || Orlando",
+        "word": "Roland",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ron || Ronny || Naldo",
+        "word": "Ronald",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dolph || Olph || Rolf || Rudy",
+        "word": "Rudolph",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dolph || Olph || Rolf || Rudy",
+        "word": "Rudolphus",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Robert",
+        "word": "Rupert",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Russ || Rusty",
+        "word": "Russell",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Sam || Sammy",
+        "word": "Samuel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Morey || See",
+        "word": "Seymour",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Shelly || Shel || Tony",
+        "word": "Shelton",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dan || Danny || Sher",
+        "word": "Sheridan",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Sid || Syd",
+        "word": "Sidney",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Si",
+        "word": "Silas",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Si || Sion",
+        "word": "Simon",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Si || Sion",
+        "word": "Simeon",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Smitty",
+        "word": "Smith",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Sal || Salmon || Saul || Sol || Solly || Zolly",
+        "word": "Solomon",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Steve || Steph",
+        "word": "Stephen",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Steve || Steph",
+        "word": "Steven",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Sully || Van",
+        "word": "Sullivan",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Si || Sly || Sy || Syl || Vester || Vet || Vessie",
+        "word": "Sylvester",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Terry",
+        "word": "Terence",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Thad",
+        "word": "Thaddeus",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ted || Teddy || Theo",
+        "word": "Theodore",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Tom || Thom || Tommy",
+        "word": "Thomas",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Tim || Timmy",
+        "word": "Timothy",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Toby || Bias",
+        "word": "Tobias",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Riah",
+        "word": "Uriah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Felty || Feltie",
+        "word": "Valentine",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Vince || Vin || Vinny",
+        "word": "Vincent",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Vince || Vin || Vinny",
+        "word": "Vinson",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Wally",
+        "word": "Wallace",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Wash || George Washington",
+        "word": "Washington",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Will || Gilbert",
+        "word": "Wilber",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Will || Gilbert",
+        "word": "Wilbur",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Will || Willie || Fred",
+        "word": "Wilfred",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Will || Willie || Bill || Billy || Bell || Bela",
+        "word": "William",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Win || Winny || Field",
+        "word": "Winfield",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Wood || Woody || Drew",
+        "word": "Woodrow",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Zach || Zachy || Zeke",
+        "word": "Zachariah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Zeb",
+        "word": "Zebedee",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Zed || Diah || Dyer",
+        "word": "Zedediah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Zeph",
+        "word": "Zephaniah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Trey",
+        "word": "3rd",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ivy",
+        "word": "4th",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Quince || Quint",
+        "word": "5th",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Abby || Nabby || Gail",
+        "word": "Abigail",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ada || Addy || Dell || Delia || Lena",
+        "word": "Adaline",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ada || Addy || Dell || Delia || Lena",
+        "word": "Adeline",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Addy || Adele || Dell || Della || Heidi",
+        "word": "Adelaide",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Adele || Addy || Dell || Delphia || Philly",
+        "word": "Adelphia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Aggy",
+        "word": "Agatha",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Aggy || Inez || Nessa",
+        "word": "Agnes",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Allie || Lena",
+        "word": "Aileen",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Allie || Bert || Bertie",
+        "word": "Alberta",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Alex || Alla || Sandy",
+        "word": "Alexandra",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Alfy || Freda || Freddy || Frieda",
+        "word": "Alfreda",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Allie || Elsie || Lisa",
+        "word": "Alice",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Allie || Elsie || Lisa",
+        "word": "Alicia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Allie || Mena",
+        "word": "Almena",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Manda || Mandy",
+        "word": "Amanda",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Emily || Mel || Millie || Amy",
+        "word": "Amelia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Annie || Nan || Nanny || Nana || Nancy || Antoinette || Christiana || Roseanne",
+        "word": "Ann",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Annie || Nan || Nanny || Nana || Nancy || Antoinette || Christiana || Roseanne",
+        "word": "Anne",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ann || Tony || Netta",
+        "word": "Antoinette",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ann || Tony || Netta",
+        "word": "Antonia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ara || Arry || Belle || Bella",
+        "word": "Arabella",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ara || Arry || Belle || Bella",
+        "word": "Arabelle",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Arly || Lena",
+        "word": "Arlene",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Arry || Mena",
+        "word": "Armena",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Assene || Natty || Sene",
+        "word": "Asenath",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Aggy || Gatsy || Gussie || Tina",
+        "word": "Augusta",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Aggy || Gatsy || Gussie || Tina",
+        "word": "Augustina",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Bab || Babs || Barby || Bobbie",
+        "word": "Barbara",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Bea || Trisha || Trix || Trixie",
+        "word": "Beatrice",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Belle || Linda",
+        "word": "Belinda",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Birdie || Bert || Bertie",
+        "word": "Bertha",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Biddie || Biddy || Bridgie || Bridie",
+        "word": "Bridget",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cammie || Millie",
+        "word": "Camille",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cornie || Nelia",
+        "word": "Cornelia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Carrie || Cassie || Lynn",
+        "word": "Carol",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Carrie || Cassie || Lynn",
+        "word": "Caroline",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Carrie || Cassie || Lynn",
+        "word": "Carolyn",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cassie || Sandra || Sandy",
+        "word": "Cassandra",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cathy || Kathy || Katy || Cassie || Kay || Kit || Kittie || Trina || Lena",
+        "word": "Catherine",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cathy || Kathy || Katy || Cassie || Kay || Kit || Kittie || Trina || Lena",
+        "word": "Cathleen",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cathy || Kathy || Katy || Cassie || Kay || Kit || Kittie || Trina || Lena",
+        "word": "Katherine",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cathy || Kathy || Katy || Cassie || Kay || Kit || Kittie || Trina || Lena",
+        "word": "Kathleen",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Celia || Cissy",
+        "word": "Cecilia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Char || Lottie || Lotta || Sherry",
+        "word": "Charlotte",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Chris || Kris || Crissy || Christy || Kristy || Tina",
+        "word": "Christine",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Chris || Kris || Crissy || Christy || Kristy || Tina",
+        "word": "Christina",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Chris || Kris || Crissy || Christy || Kristy || Tina",
+        "word": "Christiana",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Chris || Kris || Crissy || Christy || Kristy || Tina",
+        "word": "Kristine",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Clara",
+        "word": "Clarinda",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Clara || Cissy",
+        "word": "Clarissa",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Connie",
+        "word": "Constance",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cordy || Delia",
+        "word": "Cordelia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Corny || Nelle || Nelly || Nelia",
+        "word": "Cornelia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cindy || Cintha",
+        "word": "Cynthia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lena || Darry",
+        "word": "Darlene",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Debby || Debbie || Deb",
+        "word": "Deborah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Debby || Debbie || Deb",
+        "word": "Debora",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Della || Delly || Dilly",
+        "word": "Deliverance",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dell || Lola || Lolly || Della || Dee",
+        "word": "Delores",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dicie",
+        "word": "Dicey",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Darkey",
+        "word": "Dorcus",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dolly || Dot || Dortha || Dotty",
+        "word": "Dorothy",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Edie",
+        "word": "Edith",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eleanor",
+        "word": "Elaine",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Elaine || Ellen || Ellie || Lanna || Lenora || Nelly || Nora",
+        "word": "Eleanor",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eliza || Bess || Bessie || Beth || Betsy || Betty || Lib || Libby || Liza || Lisa || Liz || Lizzie",
+        "word": "Elizabeth",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eleanor || Helen",
+        "word": "Ellen",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Elly || Ellie || Mira",
+        "word": "Elmira",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Louise || Heloise",
+        "word": "Elouise",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Alice",
+        "word": "Elsie",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Emmy || Millie || Emma || Amelia || Emeline",
+        "word": "Emily",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Em || Emily || Emma || Emmy || Milly",
+        "word": "Emeline",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Essy || Stella",
+        "word": "Estelle",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Essy || Stella",
+        "word": "Estella",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hester",
+        "word": "Esther",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eva || Eve || Lena",
+        "word": "Evaline",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Fay",
+        "word": "Faith",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Delia",
+        "word": "Fidelia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Flo || Flora || Flossy",
+        "word": "Florence",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Fanny || Fran || Cissy || Frankie || Sis",
+        "word": "Frances",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Freda || Freddy || Ricka || Frieda",
+        "word": "Fredericka",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Gabby || Ella",
+        "word": "Gabrielle",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Gabby || Ella",
+        "word": "Gabriella",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Abigail",
+        "word": "Gail",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eve || Jean || Jenny",
+        "word": "Genevieve",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dina || Gerry || Gerrie || Jerry",
+        "word": "Geraldine",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Trudy || Gert || Gertie",
+        "word": "Gertrude",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Gwen || Wendy",
+        "word": "Gwendolyn",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Nan || Nanny || Anna || Johannah || Susannah.",
+        "word": "Hannah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hattie",
+        "word": "Harriet",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Adelaide",
+        "word": "Heidi",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ella || Ellen || Ellie || Lena",
+        "word": "Helen",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ella || Ellen || Ellie || Lena",
+        "word": "Helene",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Eloise || Lois",
+        "word": "Heloise",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Etta || Etty || Hank || Nettie || Retta",
+        "word": "Henrietta",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hermie",
+        "word": "Hermione",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hipsie",
+        "word": "Hepsibah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hipsie",
+        "word": "Hephsibah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hessy || Esther || Hetty",
+        "word": "Hester",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lavina",
+        "word": "Ina",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Agnes",
+        "word": "Inez",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Rena",
+        "word": "Irene",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Bella || Belle || Ib || Issy || Nib || Nibby || Tibbie",
+        "word": "Isabel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Bella || Belle || Ib || Issy || Nib || Nibby || Tibbie",
+        "word": "Isabelle",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Bella || Belle || Ib || Issy || Nib || Nibby || Tibbie",
+        "word": "Isabella",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Dora || Issy",
+        "word": "Isadora",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Janie || Jean || Jennie || Jessie",
+        "word": "Jane",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jessie || Jan",
+        "word": "Janet",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jane || Jeannie",
+        "word": "Jean",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jane || Jeannie",
+        "word": "Jeanne",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Janet || Jean || Jessie || Nettie",
+        "word": "Jeanette",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Mima",
+        "word": "Jemima",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jennie",
+        "word": "Jennifer",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jessie",
+        "word": "Jessica",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Nonie || Joanna || Johannah",
+        "word": "Joan",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Joan || Jody || Hannah",
+        "word": "Joanna",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Joan || Jody || Hannah",
+        "word": "Johannah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Jody || Jo || Joey || Josey || Fina",
+        "word": "Josephine",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Joy",
+        "word": "Joyce",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Nettie || Nita",
+        "word": "Juanita",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Julie || Jill",
+        "word": "Julia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Kizza || Kizzie",
+        "word": "Keziah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ina || Vina || Viney",
+        "word": "Lavina",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ina || Vina || Viney",
+        "word": "Lavinia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Nora || Lee || Eleanor",
+        "word": "Lenora",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lettie || Lettice || Titia || Tish",
+        "word": "Letitia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lily || Lilly || Lil || Lolly",
+        "word": "Lillah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lil || Lilly || Lolly",
+        "word": "Lillian",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lindy || Lynn || Belinda || Melinda || Philinda",
+        "word": "Linda",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Elizabeth || Alice || Melissa",
+        "word": "Lisa",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Heloise || Louise",
+        "word": "Lois",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Etta || Lorrie || Retta",
+        "word": "Loretta",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lorrie",
+        "word": "Lorraine",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lou || Eliza || Lois",
+        "word": "Louise",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lou || Eliza || Lois",
+        "word": "Louisa",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lu || Lou || Cille || Lucy",
+        "word": "Lucille",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cindy || Lu || Lou || Lucy",
+        "word": "Lucinda",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ella || Lu || Lula",
+        "word": "Luella",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lyddy",
+        "word": "Lydia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lyddy",
+        "word": "Lidia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Carolyn || Madeline || Linda",
+        "word": "Lynn",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lena || Maddy || Madge || Magda || Maggie || Maida || Maud",
+        "word": "Madeline",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lena || Madge || Magda",
+        "word": "Magdelina",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hallie",
+        "word": "Mahala",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Daisy || Gretta || Madge || Maggie || Meg || Midge || Peg || Peggy || Rita || Margery || Marge || Margie",
+        "word": "Margaret",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Daisy || Gretta || Madge || Maggie || Meg || Midge || Peg || Peggy || Rita || Margery || Marge || Margie",
+        "word": "Margaretta",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Marty || Mat || Mattie || Patsy || Patty",
+        "word": "Martha",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Molly || Polly || Mae || Mamie || Mitzi",
+        "word": "Mary",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Tilly || Matty || Maud",
+        "word": "Matilda",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Hetty || Hitty || Mabel || Mitty",
+        "word": "Mehitabel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Linda || Lindy || Mel || Mindy",
+        "word": "Melinda",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lisa || Lissa || Mel || Milly || Missy",
+        "word": "Melissa",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Mickey",
+        "word": "Michelle",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Milly",
+        "word": "Mildred",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Milly || Missy",
+        "word": "Millicent",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Minnie",
+        "word": "Minerva",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Mandy || Mira || Randy",
+        "word": "Miranda",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Mimi || Mitzi",
+        "word": "Miriam",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Nan || Ann",
+        "word": "Nancy",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Natty || Nettie",
+        "word": "Natalie",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ollie || Nollie || Livia",
+        "word": "Olive",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ollie || Nollie || Livia",
+        "word": "Olivia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Amelia || Melia || Milly",
+        "word": "Parmelia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Pat || Patty",
+        "word": "Patience",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Pat || Patty || Patsy || Tricia",
+        "word": "Patricia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Polly || Lina",
+        "word": "Paula",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Polly || Lina",
+        "word": "Paulina",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Penny",
+        "word": "Penelope",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Linda",
+        "word": "Philinda",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Cissy || Cilla || Prissy",
+        "word": "Priscilla",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Prudy || Prue",
+        "word": "Prudence",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Shelly",
+        "word": "Rachel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Reba || Becca || Becky || Beck",
+        "word": "Rebecca",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Reggie || Gina",
+        "word": "Regina",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Leafa",
+        "word": "Relief",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Bobbie || Robbie || Bert || Bertie || Birdie",
+        "word": "Roberta",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Belle || Rosa || Rose || Roz",
+        "word": "Rosabel",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Belle || Rosa || Rose || Roz",
+        "word": "Rosabella",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Rosa || Rose || Linda || Roz",
+        "word": "Rosalyn",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Rosa || Rose || Linda || Roz",
+        "word": "Rosalinda",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Rose || Ann || Roz || Rosie",
+        "word": "Roseann",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Rose || Ann || Roz || Rosie",
+        "word": "Roseanna",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ann || Rose || Roxie",
+        "word": "Roxanne",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ann || Rose || Roxie",
+        "word": "Roxanna",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Brina",
+        "word": "Sabrina",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Sandy || Cassandra || Alexandra",
+        "word": "Sandra",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Sally || Sadie",
+        "word": "Sarah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lena",
+        "word": "Celina",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lena",
+        "word": "Selina",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Rena",
+        "word": "Serena",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Lee || Sherry || Shirl",
+        "word": "Shirley",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Mitty",
+        "word": "Submit",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Sue || Sukey || Susie || Hannah",
+        "word": "Susan",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Sue || Sukey || Susie || Hannah",
+        "word": "Susannah",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Tabby",
+        "word": "Tabitha",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Terry || Tess || Tessie || Tessa || Thirza || Thursa || Tracy",
+        "word": "Theresa",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Phena",
+        "word": "Tryphena",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Val",
+        "word": "Valerie",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Nessa || Essa || Vanna",
+        "word": "Vanessa",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Franky || Frony || Ron || Ronnie || Ronna || Vonnie",
+        "word": "Veronica",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Vicky",
+        "word": "Victoria",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Ginger || Ginny || Jane || Jennie || Virgy",
+        "word": "Virginia",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Mina || Willie || Wilma || Minnie",
+        "word": "Wilhelmina",
+        "pos": "NOUN"
+    },
+    {
+        "SYNONYM": "Winnie || Freddie || Winnet",
+        "word": "Winifred",
+        "pos": "NOUN"
+    }
+]

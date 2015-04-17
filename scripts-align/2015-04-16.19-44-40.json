@@ -1,0 +1,112 @@
+[
+	{
+	"name": "1",
+	"id": "",
+	"source": "This is a test",
+	"target": "Tessting is done here",
+	"score": "9.273948669433594",
+	"sureAlign": "",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "2",
+	"id": "",
+	"source": "Liquid water becomes a gas called water vapor through the process of",
+	"target": "evaporation",
+	"score": "9.062532424926758",
+	"sureAlign": "",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "3",
+	"id": "",
+	"source": "Liquid water becomes a gas called water vapor through the process of",
+	"target": "liquid water process | evaporation | changing water vapor",
+	"score": "10.549668629964193",
+	"sureAlign": "0-0 1-1 6-7 7-8",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "4",
+	"id": "",
+	"source": "Liquid water becomes a gas called water vapor through the process of",
+	"target": "liquid water process water vapor",
+	"score": "10.58608309427897",
+	"sureAlign": "0-0 1-1 6-3 7-4",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "5",
+	"id": "",
+	"source": "Liquid water becomes a gas called water vapor through the process of",
+	"target": "liquid water evaporation water vapor",
+	"score": "10.58608309427897",
+	"sureAlign": "0-0 1-1 6-3 7-4",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "6",
+	"id": "",
+	"source": "Liquid water becomes a gas called water vapor through the process of",
+	"target": "liquid water changing water vapor",
+	"score": "10.58608309427897",
+	"sureAlign": "0-0 1-1 6-3 7-4",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "7",
+	"id": "",
+	"source": "Liquid water becomes a gas called water vapor through the process of",
+	"target": "liquid water changing water vapor",
+	"score": "10.58608309427897",
+	"sureAlign": "0-0 1-1 6-3 7-4",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "8",
+	"id": "",
+	"source": "Liquid water becomes a gas called water vapor through the process of",
+	"target": "water evaporated water vapor in the air",
+	"score": "10.028162002563477",
+	"sureAlign": "1-0 6-2 7-3",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "9",
+	"id": "",
+	"source": "A giraffe 's long neck is a( n )",
+	"target": "animals live in their environment adaptation features",
+	"score": "8.905941433376736",
+	"sureAlign": "",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "10",
+	"id": "",
+	"source": "A giraffe 's long neck is a",
+	"target": "animals live in their environment adaptation features",
+	"score": "9.101916721888951",
+	"sureAlign": "",
+	"possibleAlign": ""
+	}
+	,
+	{
+	"name": "11",
+	"id": "",
+	"source": "A giraffe 's long neck is a",
+	"target": "The adaptation of animals are the features an animal has to live in their environment .",
+	"score": "9.101916721888951",
+	"sureAlign": "",
+	"possibleAlign": ""
+	}
+
+]

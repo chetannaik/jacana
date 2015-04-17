@@ -1,0 +1,9 @@
+Bio-domain OpenNLP models are downloaded from:
+
+http://www.julielab.de/Resources/Software/NLP+Tools/Download/Models.html
+
+Not sure about license
+
+General domain OpenNLP models are taken from OpenEphyra (http://www.ephyra.info/), license is GPL.
+
+All models are compatable with opennlp-tools version 1.3

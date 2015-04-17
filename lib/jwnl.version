@@ -1,0 +1,23 @@
+JWNL 1.4 R1
+
+Changes to original distribution:
+
+net.didion.jwnl.dictionary.file_manager.FileManager.FileManagerImpl, line 72:
+Use System.getProperty("file.separator") for Unix compatibility.
+
+net.didion.jwnl.dictionary.file_manager.FileManager.FileManagerImpl, line 74:
+Use System.getProperty("file.separator") for Unix compatibility.
+
+2012-11-6
+updated to JWNL 1.4 RC2
+* Fixed the bug that derived form didn't work in the original jwnl-rc2.jar
+
+The original changes to 1.4 R1 was fixed in RC2
+
+
+2012-12-16
+profiled JWNL, changed the most time consuming call is PrincetonChannelDictionaryFile.length(),
+saved the value to a private long.
+
+2013-5-22
+lookup the dictionary_path from $JACANA_HOME, to make the property xml file portable across machines.
